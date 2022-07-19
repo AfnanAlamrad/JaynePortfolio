@@ -1,0 +1,153 @@
+body {
+    background-color: #121212;
+}
+
+#section1 {
+    margin-top: 7%;
+}
+#profile-pic {
+    width: 90%;
+    margin-left: 60%;
+}
+
+#greeting {
+    font-family: 'Sansita', sans-serif;
+    font-size: 80px;
+    color: #F1C239;
+    margin-left: 13%;
+    margin-top: 5%;
+}
+
+#name {
+    font-family: 'Sansita', sans-serif;
+    font-size: 80px;
+    color: #F1C239;
+    margin-left: 13%;
+    margin-top: -6%;
+}
+
+#major {
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: -2%;
+    margin-left: 23%;
+}
+
+#section2 {
+    margin-top: 10%;
+    margin-left: 20%;
+
+}
+
+#title {
+    font-family: 'Sansita', sans-serif;
+    font-size: 50px;
+    color: #F1C239;
+}
+
+#about-content {
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    text-align: justify;
+    margin-top: -1%;
+}
+
+#section3 {
+    margin-left: 20%;
+    margin-top: 10%;
+}
+
+#title-pro {
+    font-family: 'Sansita', sans-serif;
+    font-size: 50px;
+    color: #F1C239;
+}
+
+#projects {
+    margin-top: 1%;
+}
+
+#custom-card, #custom-card1 {
+    background-color:#1212128b;
+    border: #121212;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    text-align: justify;
+    margin-bottom: 3%;
+
+}
+
+#custom-card1 {
+    margin-right: 7%;
+}
+
+#custom-img {
+    opacity: 0.5;
+}
+
+#custom-img:hover {
+    opacity: 1;
+}
+
+#custom-btn {
+    background-color: #f1c339d4;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    color: white;
+}
+
+#section4 {
+    margin-top: 10%;
+}
+
+#contact-title {
+    text-align: center;
+    font-family: 'Sansita', sans-serif;
+    font-size: 50px;
+    color: #F1C239;
+}
+#icons {
+    width: 4.5%;
+    margin-left: 3%;
+    opacity: 0.7;
+}
+
+
+#icons:hover {
+    opacity: 1;
+}
+
+#custom-icons {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+#custom-foot {
+    background-color:  #6f6d6d1d;
+    margin-top: 7%;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#colll {
+    border: #F1C239 solid 1px;
+}
